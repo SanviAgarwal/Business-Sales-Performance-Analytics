@@ -62,6 +62,8 @@ This step helped in:
 ### 📸 Column Quality Preview
 ![Column Quality Check](column_quality.png)
 
+This is true for every single column
+
 📌 *Handling missing and erroneous values at this stage ensures reliable insights and prevents incorrect trend or KPI calculations later in the analysis.*
 
 
