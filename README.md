@@ -42,3 +42,26 @@ The dataset also allows for advanced analysis, including building **regression m
 - **Discount**: Discount applied to the product.
 - **Profit**: Profit or loss incurred from the sale.
 
+
+## 🧹 Data Quality Check (Null & Error Detection)
+
+To ensure data accuracy and reliability, a **data quality check** was performed using **Power BI Power Query**.
+
+The **Column Quality** feature was enabled to visually inspect the dataset and identify potential data issues.
+
+### 🔍 Column Quality Indicators
+- 🟢 **Valid (Green)**: Correct and usable values
+- 🔴 **Error (Red)**: Invalid or corrupted values
+- ⚪ **Null (Gray)**: Missing values
+
+This step helped in:
+- Identifying columns with missing or erroneous data
+- Deciding whether to remove, replace, or retain null values
+- Ensuring clean input for accurate analysis and dashboard creation
+
+### 📸 Column Quality Preview
+![Column Quality Check](column_quality.png)
+
+📌 *Handling missing and erroneous values at this stage ensures reliable insights and prevents incorrect trend or KPI calculations later in the analysis.*
+
+
