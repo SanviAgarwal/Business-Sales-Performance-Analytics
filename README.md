@@ -1,6 +1,6 @@
 # Business-Sales-Performance-Analytics
 
-##🎯Business Objective:
+## 🎯Business Objective:
 Analyze sales data to identify revenue trends, profitable products/categories, regional performance, and growth opportunities.
 
 ## 📂 About Dataset
