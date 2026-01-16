@@ -80,7 +80,7 @@ Analyze the **monthly revenue trend** to determine whether the business is **gro
 
 The following column chart illustrates the **month-wise distribution of total revenue**, enabling clear comparison of sales performance across different periods of the year.
 
-![Total Revenue by Month](Total Revenue by month.png)
+![Total Revenue by Month](month_revenue.png)
 
 ---
 
