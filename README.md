@@ -67,3 +67,41 @@ This is true for every single column
 📌 *Handling missing and erroneous values at this stage ensures reliable insights and prevents incorrect trend or KPI calculations later in the analysis.*
 
 
+## 📊 Exploratory Data Analysis (EDA)
+
+### 🔹 Revenue Trend Over Time (Monthly Analysis)
+
+#### 🎯 Objective
+Analyze the **monthly revenue trend** to determine whether the business is **growing or declining** and to identify **seasonal patterns** in sales.
+
+---
+
+#### 📈 Visualization: Total Revenue by Month
+
+The following column chart illustrates the **month-wise distribution of total revenue**, enabling clear comparison of sales performance across different periods of the year.
+
+![Total Revenue by Month](Total Revenue by month.png)
+
+---
+
+#### 🔍 Key Observations
+
+- Revenue is comparatively **low during the initial months** (January–February).
+- A **consistent upward trend** is observed from March through August.
+- A **sharp rise in revenue** occurs from September onwards.
+- **November and December** record the **highest sales**, indicating peak business performance.
+
+---
+
+#### 🧠 Business Insights
+
+- The overall trend reflects a **growing business**.
+- The surge in the final quarter suggests **seasonality**, likely driven by festive demand and promotional campaigns.
+- Lower-performing months indicate opportunities for **targeted sales and marketing initiatives**.
+
+---
+
+#### ✅ Conclusion
+
+> The revenue trend demonstrates a positive growth pattern with strong seasonal influence. The exceptional performance in the final quarter highlights the importance of strategic planning in inventory management, marketing, and resource allocation during peak demand periods.
+
